@@ -12,6 +12,7 @@
         Console.Beep(262, 900) 'C4'
         Console.ReadLine()
 
+        'comment
     End Sub
 
 End Module
